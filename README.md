@@ -1,7 +1,7 @@
 # ValidadorCartao
 
 ## Descrição
-Uma breve descrição do projeto (adicionar detalhes específicos sobre o que o projeto faz).
+Esse projeto simula um validador de Cartão com as bandeiras mais ultilizadas no mercado como Visa, MasterCard e entre outros.
 
 ## Tecnologias Utilizadas
 - JavaScript (36.8%)
